@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Hero2 = () => {
   return (
-    <div className="h-screen bg-[#FFFEF2] px-5 lg:px-20 grid lg:grid-cols-3 md:grid-cols-2 items-center py-20">
+    <div className="h-auto bg-[#FFFEF2] px-5 lg:px-20 grid lg:grid-cols-3 md:grid-cols-2 items-center py-20">
       <div className="col-span-1  lg:h-[80vh] h-[40vh]">
         <p className="text-sm font-semibold my-2">For the body</p>
         <h2 className="text-2xl font-serif ">An expression of care</h2>
