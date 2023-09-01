@@ -60,7 +60,7 @@ const navbarData = [
 ];
 
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   return (
     <>
       <div className=" justify-between flex-row  bg-[#FFFEF2] py-7 px-8 border-b-2 text-black flex relative">

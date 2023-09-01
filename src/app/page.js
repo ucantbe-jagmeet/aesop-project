@@ -1,4 +1,4 @@
-import { Navbar, Banner } from "../components";
+import { Navbar, Banner, Hero } from "../components";
 
 export default function Home() {
   return (
@@ -14,6 +14,7 @@ export default function Home() {
         className="bg-[#252525] text-[#FFFEF2] !py-3 "
       />
       <Navbar />
+      <Hero />
     </div>
   );
 }
