@@ -6,6 +6,7 @@ import {
   Hero3,
   Hero4,
   Hero5,
+  Hero6,
 } from "../components";
 
 export default function Home() {
@@ -27,6 +28,7 @@ export default function Home() {
       <Hero3 />
       <Hero4 />
       <Hero5 />
+      <Hero6 />
     </div>
   );
 }
