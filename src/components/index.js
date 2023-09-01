@@ -8,4 +8,17 @@ import Hero6 from "./Hero6";
 import Hero7 from "./Hero7";
 import Logo from "./Logo";
 import Navbar from "./Navbar";
-export { Hero7, Hero6, Hero5, Hero4, Logo, Hero2, Hero3, Hero, Banner, Navbar };
+import Outro from "./Outro";
+export {
+  Outro,
+  Hero7,
+  Hero6,
+  Hero5,
+  Hero4,
+  Logo,
+  Hero2,
+  Hero3,
+  Hero,
+  Banner,
+  Navbar,
+};
