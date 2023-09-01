@@ -1,4 +1,5 @@
 import Banner from "./Banner";
+import Footer from "./Footer";
 import Hero from "./Hero";
 import Hero2 from "./Hero2";
 import Hero3 from "./Hero3";
@@ -10,6 +11,7 @@ import Logo from "./Logo";
 import Navbar from "./Navbar";
 import Outro from "./Outro";
 export {
+  Footer,
   Outro,
   Hero7,
   Hero6,

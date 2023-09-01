@@ -9,6 +9,7 @@ import {
   Hero6,
   Hero7,
   Outro,
+  Footer,
 } from "../components";
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
       <Hero6 />
       <Hero7 />
       <Outro />
+      <Footer />
     </div>
   );
 }
